@@ -248,7 +248,7 @@ $.extend(MapsLib, {
     defaultMapBounds: {
 
         // Use [latitude, longitude] or address
-        center: "San Francisco, CA",
+        center: "40.25 22.85",
 
         // "X miles" or "X meters"
         radius: "6 miles"
